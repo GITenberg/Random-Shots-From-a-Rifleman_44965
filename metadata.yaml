@@ -1,0 +1,29 @@
+_repo: Random-Shots-From-a-Rifleman_44965
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44965-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Kincaid, J. (John)
+    alias: Kincaid, John
+    birthdate: 1787
+    deathdate: 1862
+    gutenberg_agent_id: '33621'
+    url: http://www.gutenberg.org/2009/agents/33621
+description: ''
+gutenberg_issued: '2014-02-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44965'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Peninsular War, 1807-1814 -- Personal narratives, British'
+- !lcsh 'Kincaid, J. (John), 1787-1862'
+- !lcsh 'Great Britain. Army. Regiment of Foot, 95th'
+- !lcc 'DC'
+title: Random Shots from a Rifleman
+url: http://www.gutenberg.org/ebooks/44965
